@@ -1,5 +1,5 @@
 ## Hey there, I'm Gus 👋💻
-# This README is currently on WIP 😢
+#### This README is currently on WIP 😢
 
 <!-- ### Front-end enthusiast and developer ✨
  - Currently in love with ReactJS ☕ and the whole ecosystem
@@ -18,4 +18,4 @@
 <!-- [twitter]: https://twitter.com/sadguss/
 [instagram]: https://instagram.com/gus.bedendo/
 [linkedin]: https://linkedin.com/in/gustavobedendo/
-[spotify]: https://open.spotify.com/user/heart14_/ --> -->
+[spotify]: https://open.spotify.com/user/heart14_/ --> 
