@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there, I'm Gus 👋💻
+
+## Front-end enthusiast and developer
+## Currently in love with ReactJS and the whole ecosystem
+
+<img align="left" alt="Gus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoHBC&show_icons=true&hide_border=true" />
 
 <!--
 **GustavoHBC/GustavoHBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+<br/>
+[twitter]: https://twitter.com/sadguss/
+[instagram]: https://instagram.com/gus.bedendo/
+[linkedin]: https://linkedin.com/in/gustavobedendo/
+[spotify]: https://open.spotify.com/user/heart14_/
