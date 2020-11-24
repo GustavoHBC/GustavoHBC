@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-[twitter]: https://twitter.com/sadguss/
+<!-- [twitter]: https://twitter.com/sadguss/
 [instagram]: https://instagram.com/gus.bedendo/
 [linkedin]: https://linkedin.com/in/gustavobedendo/
-[spotify]: https://open.spotify.com/user/heart14_/
+[spotify]: https://open.spotify.com/user/heart14_/ -->
