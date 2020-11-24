@@ -1,7 +1,7 @@
-### Hey there, I'm Gus 👋💻
+## Hey there, I'm Gus 👋💻
 
-## Front-end enthusiast and developer
-## Currently in love with ReactJS and the whole ecosystem
+### Front-end enthusiast and developer ✨
+ - Currently in love with ReactJS ☕ and the whole ecosystem
 
 <img align="left" alt="Gus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoHBC&show_icons=true&hide_border=true" />
 
