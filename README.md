@@ -2,13 +2,11 @@
 #### This README is currently on WIP 😢
 
 ### Front-end enthusiast and developer ✨
- - Currently in love with ReactJS ☕ and the whole ecosystem
+ Currently in love with ReactJS ☕ and the whole ecosystem
 
-<div style="display: flex; flex-direction: column">
-<img align="left" alt="Gus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoHBC&show_icons=true&theme=shades-of-purple" />
+<img align="left" alt="Gus' Github Stats" width="60" src="https://github-readme-stats.vercel.app/api?username=GustavoHBC&show_icons=true&theme=shades-of-purple" />
 
 <img align="right" alt="Gus' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHBC&layout=compact&theme=shades-of-purple" />
-</div>
 <!-- 
   Theme Creation
 <img align="left" alt="Gus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoHBC&show_icons=true&title_color=a938ff&icon_color=a938ff&text_color=7100c7&bg_color=ffffff,fff83b,fffc9e" />
