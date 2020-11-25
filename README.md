@@ -8,6 +8,8 @@
   [<img align="left" alt="LinkedIn icon" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="Spotify icon" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/spotify.svg" />][spotify]
 
+<br />
+
 ### Some skills ⌨
   [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
   [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -33,7 +35,10 @@
 <img align="left" alt="Gus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoHBC&show_icons=true&title_color=a938ff&icon_color=a938ff&text_color=7100c7&bg_color=ffffff,fff83b,fffc9e" />
 
 
-[twitter]: https://twitter.com/sadguss?target=_blank
+<br />
+<br />
+
+[twitter]: https://twitter.com/sadguss
 [instagram]: https://instagram.com/gus.bedendo
 [linkedin]: https://linkedin.com/in/gustavobedendo
 [spotify]: https://open.spotify.com/user/heart14_
