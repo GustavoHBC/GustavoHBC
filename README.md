@@ -2,8 +2,6 @@
 ### Front-end enthusiast and developer ✨
  Currently in love with ReactJS ☕ and the whole ecosystem
 
-<br />
-
 ### Connect with me 🌎
   [<img align="left" alt="LinkedIn icon" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="Twitter icon" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
@@ -29,11 +27,8 @@
   <img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
-
-<br />
 
 ### Some stats 📓
 
