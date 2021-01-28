@@ -1,4 +1,4 @@
-## Hey there, I'm Gus 👋💻
+## Hey there, I'm Gus 👋
 
 ### Front-end enthusiast and developer ✨
 
