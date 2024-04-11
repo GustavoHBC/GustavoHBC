@@ -1,8 +1,8 @@
 ## Hey there, I'm Gus 👋
 
-### Front-end enthusiast and developer ✨
+### Front-end developer and enthusiast ✨☕
 
-Currently in love with ReactJS ☕ and the whole ecosystem
+Currently in love with Python, TypeScript, ReactJS 💜 and, as always, the entire front-end ecosystem 🚀
 
 ### Connect with me 🌎
 
@@ -29,19 +29,6 @@ Currently in love with ReactJS ☕ and the whole ecosystem
   <img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-
----
-
-### Some stats 📓
-
-<img align="left" alt="Gus' Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=GustavoHBC&show_icons=true&theme=shades-of-purple" />
-
-<img align="right" alt="Gus' Github Stats" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHBC&layout=compact&theme=shades-of-purple" />
-<!-- 
-  Theme Creation
-<img align="left" alt="Gus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoHBC&show_icons=true&title_color=a938ff&icon_color=a938ff&text_color=7100c7&bg_color=ffffff,fff83b,fffc9e" />
 
 <br />
 <br />
