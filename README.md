@@ -1,14 +1,12 @@
 ## Hey there, I'm Gus 👋
 
-### Front-end developer and enthusiast ✨☕
+### Sofware engineer ✨☕
 
-Currently in love with Python, TypeScript, ReactJS 💜 and, as always, the entire front-end ecosystem 🚀
+Currently in love with Python, TypeScript, ReactJS 💜 and, as always, the entire development ecosystem 🚀
 
 ### Connect with me 🌎
 
 [<img align="left" alt="LinkedIn icon" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter icon" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Instagram icon" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Spotify icon" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/spotify.svg" />][spotify]
 
 <br />
@@ -33,7 +31,5 @@ Currently in love with Python, TypeScript, ReactJS 💜 and, as always, the enti
 <br />
 <br />
 
-[twitter]: https://twitter.com/sadguss
-[instagram]: https://instagram.com/gus.bedendo
 [linkedin]: https://linkedin.com/in/gustavobedendo
 [spotify]: https://open.spotify.com/user/heart14_
